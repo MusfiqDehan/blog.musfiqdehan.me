@@ -1,13 +1,22 @@
 ## How AI and Data Analytics will Change the Future of Bangladesh?
 
+## Introduction
+
 AI or Artificial Intelligence is trying to give human-like knowledge to machines. And Data Analytics is finding insight from data. By doing Data Analytics, we can find out the trend hidden in the data, and how we can use the data to grow our business. AI and Data Analytics aren’t widely used in our country. Only a few large companies mostly used these technologies. 
+
+
+## AI in Bangladesh
 
 Bangladesh is a developing country. It is one of the fastest-growing economies in the world and is also experiencing considerable growth in its IT sector. Automation technologies are largely used by the telecom, banking, pharmaceutical, and ready-made garment industry in Bangladesh. As the world is getting more digitized, Bangladesh needs to expand its IT infrastructure to keep up with the 4IR. The country needs to tap into the huge potential of Artificial Intelligence (AI) solutions such as machine learning, decision support systems, automated data analyzers, and others that heavily influence digital growth.
 
 Moreover, with the emergence of the Covid-19 pandemic, many enterprises have invested in digitalizing numerous services in response to work-from-home arrangements. All of this signals the potential of a breakthrough in the IT sector which may increase employment opportunities and prepare Bangladesh's economy for the maximum utilization of the Fourth Industrial Revolution (4IR).
 
+## Importance of Data
+
 Data is everything, and it is a product also. Not a simple product, but a very important product. All tech giants like Google, Facebook, Amazon, etc. are manipulating us using our data. You will understand if you see Facebook’s and YouTube’s recommendation systems. It is, most of the time, accurate. If we can collect proper data and find the insights inside it, we can use them for our business development. By using Data Analytics, a business can grow faster than others. There are many prospering governments and private sectors in Bangladesh where I think AI and Data Analytics can contribute significantly. But I think if the government sectors try to implement these technologies, it will be more helpful for our country. Our government and ICT ministry also make a database where all government data will be available. After getting the data, if we do proper exploratory data analysis, we will be able to find out what is the condition of our country, how many people are getting opportunities, and how many are not. We can do so many things using the data. 
 
-Not only this by using AI and Machine Learning, we can enrich our mother language, Bangla also. We are all Bangladeshi people and love to speak in Bangla. But the resource in Bangla is not enough for our growth or to compete with the rest of the world. We can enrich our mother language and connect it with other languages and countries by applying AI and Natural Language processing.
+Not only this, but by using AI and Machine Learning, we can enrich our mother language, Bangla also. We are all Bangladeshi people and love to speak in Bangla. But the resource in Bangla is not enough for our growth or to compete with the rest of the world. We can enrich our mother language and connect it with other languages and countries by applying AI and Natural Language processing.
+
+## Conclusion
 
 The use of AI and Data Analytics in Bangladesh is increasing daily. And it will increase in the future also. If we want to change our future and compete with the rest of the world, there is no other way. Otherwise, we will lack behind. So, AI and Data Analytics will change the future of Bangladesh.
