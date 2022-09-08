@@ -1,6 +1,5 @@
 ## How AI and Data Analytics will Change the Future of Bangladesh?
 
-## Introduction
 
 AI or Artificial Intelligence is trying to give human-like knowledge to machines. And Data Analytics is finding insight from data. By doing Data Analytics, we can find out the trend hidden in the data, and how we can use the data to grow our business. AI and Data Analytics aren’t widely used in our country. Only a few large companies mostly used these technologies. 
 
