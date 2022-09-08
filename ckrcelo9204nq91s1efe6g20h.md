@@ -1,8 +1,6 @@
 ## How can we make the people of our society more skilled and honest?
 
-## Introduction
-
-In Economics, when in a society, human needs are greater than the available resources, then the society will face **scarcity**. If a society faces scarcity, that means that the society has limited resources and it cannot fulfill the need of every people. So it has to choose a rationing device. 
+In Economics, when in a society, human needs are greater than the available resources, then the society will face scarcity. If a society faces scarcity, that means that the society has limited resources and it cannot fulfill the need of every people. So it has to choose a rationing device. 
 
 ## What is a Rationing Device?
 
