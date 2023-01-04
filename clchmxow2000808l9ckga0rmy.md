@@ -52,7 +52,7 @@ In python, we have two types of functions.
 2. User-Defined Functions
     
 
-## 1\. Built-In Function
+### 1\. Built-In Function
 
 Python has many built-in functions that allow you to perform common tasks without writing your own code. Here are some examples of built-in functions in Python:
 
@@ -109,7 +109,7 @@ print(data_type)  # Output: <class 'int'>
 
 You can find a complete list of Python's built-in functions in the official Python documentation.
 
-## 2\. User-Defined functions
+### 2\. User-Defined functions
 
 You can define your own functions in Python using the `def` keyword. Here is an example of a simple function that takes two arguments and returns their sum:
 
