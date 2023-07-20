@@ -158,12 +158,4 @@ export default App;
 
 That's it! You have now created a todo app with CRUD functionality using React.js and deployed it on Vercel. You can access your app using the provided URL.
 
-Please note that this is a simplified implementation, and you can further enhance the app by adding update functionality (editing todos) and integrating a backend API for storing todo data persistently.
-
-## References
-
-1. How To Build a React To-Do App with React Hooks
-    
-2. How to Build a TodoApp using ReactJS, NextJS, and Supabase
-    
-3. How to build a React CRUD todo app (create/read todos)
+Thanks for reading the article. See you soon on another one.
