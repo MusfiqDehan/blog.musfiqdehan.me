@@ -1,4 +1,14 @@
-## Adding Items in a JavaScript Array
+---
+title: "Adding Items in a JavaScript Array"
+seoTitle: "Adding Items at Start, Middle, and End of a JavaScript"
+seoDescription: "In this article, we will learn how we can add items at the start/beginning, middle, and end of a JavaScript Array."
+datePublished: Tue Sep 27 2022 17:05:26 GMT+0000 (Coordinated Universal Time)
+cuid: cl8kg93kf000j09mf4p8z6rmd
+slug: adding-items-in-a-javascript-array
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1664294709712/pJg_xuqvO.png
+tags: javascript, array, array-methods
+
+---
 
 The array is one of the essential Data Structures. In JavaScript, we have many built-in Array methods to manipulate an array. In this article, we will learn how we can add items at the **start**, **middle**, and **end** of a JavaScript Array. 
 
