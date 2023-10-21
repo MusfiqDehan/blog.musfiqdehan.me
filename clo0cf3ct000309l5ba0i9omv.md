@@ -54,6 +54,12 @@ To delete the `main` branch and rename the `dev` branch to `main` in Git, you ca
     
     This will push your newly renamed `main` branch to the remote repository and delete the old `main` branch.
     
+    If push doesn't work, you have to force push by using the below command
+    
+    ```bash
+    git push -f origin main
+    ```
+    
 
 Now, you've successfully deleted the `main` branch and converted the `dev` branch into the new `main` branch. Make sure to communicate these changes to your team if you're working in a collaborative environment, as it will affect the branch names that others are working with.
 
