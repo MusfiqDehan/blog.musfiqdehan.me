@@ -1,5 +1,6 @@
 ---
 title: "Suppose, you have two git branches dev and main. You want to delete main branch and convert the dev branch into main branch. How can you do that?"
+seoTitle: "Delete my main branch and convert the dev branch into the main branch"
 seoDescription: "Recently, I have faced an interesting problem. For a project, I had to delete my main branch and convert the dev branch into the main branch."
 datePublished: Sat Oct 21 2023 17:58:01 GMT+0000 (Coordinated Universal Time)
 cuid: clo0cf3ct000309l5ba0i9omv
